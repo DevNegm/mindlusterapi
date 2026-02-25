@@ -1,7 +1,7 @@
 {
   "name": "kanban-api",
   "scripts": {
-    "start": "json-server --watch db.json --port 4000 --no-static"
+    "start": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
     "json-server": "^1.0.0-beta.9"
